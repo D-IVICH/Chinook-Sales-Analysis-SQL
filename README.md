@@ -112,13 +112,16 @@ The "RANK()" window function was used to rank tracks by revenue. Tracks with equ
 - Window functions using "RANK()"
 - Analysis across multiple related tables
 
-# 📸 Project Screenshots
+#📸 Project Screenshots
 
-SQL Analysis Results
+*SQL Analysis Results — Screenshot 1*
 
 <p align="center">
-  <img src="IMG_20261027_102010.jpg" width="48%" alt="SQL Analysis Screenshot 1">
-  <img src="IMG_20261027_102028.jpg" width="48%" alt="SQL Analysis Screenshot 2">
+  <img src="IMG_20261027_102010.jpg" width="85%" alt="SQL Analysis Results Screenshot 1">
+*</p>SQL Analysis Results — Screenshot 2*
+
+<p align="center">
+  <img src="IMG_20261027_102028.jpg" width="85%" alt="SQL Analysis Results Screenshot 2">
 </p>
 
 # 📝 Conclusion
