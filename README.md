@@ -117,11 +117,11 @@ The "RANK()" window function was used to rank tracks by revenue. Tracks with equ
 SQL Analysis Results — Screenshot 1
 
 <p align="center">
-  <img src="IMG_20261027_102010.jpg" width="85%" alt="SQL Analysis Results Screenshot 1">
+  <img src="IMG_20261027_102028.jpg" width="85%" alt="SQL Analysis Results Screenshot 1">
 *</p>SQL Analysis Results — Screenshot 2*
 
 <p align="center">
-  <img src="IMG_20261027_102028.jpg" width="85%" alt="SQL Analysis Results Screenshot 2">
+  <img src="IMG_20261027_102255.jpg" width="85%" alt="SQL Analysis Results Screenshot 2">
 </p>
 
 # 📝 Conclusion
