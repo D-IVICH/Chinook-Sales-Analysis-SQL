@@ -112,6 +112,15 @@ The "RANK()" window function was used to rank tracks by revenue. Tracks with equ
 - Window functions using "RANK()"
 - Analysis across multiple related tables
 
+# 📸 Project Screenshots
+
+SQL Analysis Results
+
+<p align="center">
+  <img src="IMG_20261027_102010.jpg" width="48%" alt="SQL Analysis Screenshot 1">
+  <img src="IMG_20261027_102028.jpg" width="48%" alt="SQL Analysis Screenshot 2">
+</p>
+
 # 📝 Conclusion
 
 This project demonstrates how SQL can be used to analyze sales transactions and derive business insights from a relational database.
